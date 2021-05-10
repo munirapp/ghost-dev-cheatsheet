@@ -6,8 +6,8 @@ This cheatsheet was created for developers who interest with development in ghos
 
 ## Table of Contents
 
-- [Cheatsheet Installation](https://github.com)
-- [Cheatsheet Core](https://github.com)
-- [Cheatsheet Database](https://github.com)
-- [Cheatsheet Themes](https://github.com)
-- [Cheatsheet Configuration](https://github.com)
+- [Cheatsheet Installation](https://github.com/munirapp/ghost-dev-cheatsheet/blob/master/Installation.md)
+- [Cheatsheet Core](https://github.com/munirapp/ghost-dev-cheatsheet/blob/master/Core.md)
+- [Cheatsheet Database](https://github.com/munirapp/ghost-dev-cheatsheet/blob/master/Database.md)
+- [Cheatsheet Themes](https://github.com/munirapp/ghost-dev-cheatsheet/blob/master/Themes.md)
+- [Cheatsheet Configuration](https://github.com/munirapp/ghost-dev-cheatsheet/blob/master/Configuration.md)
